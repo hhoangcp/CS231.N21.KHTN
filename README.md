@@ -7,7 +7,7 @@
 <h1 align="center"><b>CS231.N21.KHTN - Nhập môn thị giác máy tính</b></h>
 
 ## Giới thiệu môn học:
-* **Tên môn học:** Phân tích và thiết kế thuật toán
+* **Tên môn học:** Nhập môn thị giác máy tính
 * **Mã môn học:** CS231
 * **Mã lớp:** CS231.N21.KHTN
 * **Năm học:** HK2 (2022 - 2023)

@@ -23,6 +23,9 @@
 - **Chủ đề:** Crowd Counting
 - **File báo cáo đồ án**: 
 - **Slide thuyết trình**: [Crowd_counting.pptx](https://github.com/hhoangcpascal/CS231.N21.KHTN/blob/main/Crowd%20counting.pptx)
+- **Datasets**:
+    + ShanghaiTech Part B: [ShanghaiTech Part B](https://github.com/hhoangcpascal/CS231.N21.KHTN/blob/main/Crowd_Counting_MCNN-PartB.ipynb)
+    + Mall: [Mall](https://github.com/hhoangcpascal/CS231.N21.KHTN/blob/main/Crowd_Counting_MCNN-Mall.ipynb)
 - **Code demo**:
-    + Trên tập dữ liệu ShanghaiTech Part B: [Crowd_Counting_MCNN-PartB.ipynb](https://github.com/hhoangcpascal/CS231.N21.KHTN/blob/main/Crowd_Counting_MCNN-PartB.ipynb)
-    + Trên tập dữ liệu Mall: [Crowd_Counting_MCNN-Mall.ipynb](https://github.com/hhoangcpascal/CS231.N21.KHTN/blob/main/Crowd_Counting_MCNN-Mall.ipynb)
+    + Trên bộ dữ liệu ShanghaiTech Part B: [Crowd_Counting_MCNN-PartB.ipynb](https://github.com/hhoangcpascal/CS231.N21.KHTN/blob/main/Crowd_Counting_MCNN-PartB.ipynb)
+    + Trên bộ dữ liệu Mall: [Crowd_Counting_MCNN-Mall.ipynb](https://github.com/hhoangcpascal/CS231.N21.KHTN/blob/main/Crowd_Counting_MCNN-Mall.ipynb)

@@ -21,7 +21,7 @@
 
 ## Về đồ án môn học:
 - **Chủ đề:** Crowd Counting
-- **File báo cáo đồ án**: 
+- **File báo cáo đồ án**: [21520142_21520033_report_cv_crowd_counting.pdf](https://github.com/hhoangcpascal/CS231.N21.KHTN/blob/main/21520142_21520033_report_cv_crowd_counting.pdf)
 - **Slide thuyết trình**: [Crowd_counting.pptx](https://github.com/hhoangcpascal/CS231.N21.KHTN/blob/main/Crowd%20counting.pptx)
 - **Bộ dữ liệu**:
     + ShanghaiTech Part B: [ShanghaiTech Part B](https://github.com/hhoangcpascal/CS231.N21.KHTN/tree/main/ShanghaiTech/part_B)
